@@ -178,12 +178,11 @@ Publish the website in the given URL.
     <div id="menu" class="container" style="display:none;">
         <h2>Our Menu</h2>
         <div class="menu-grid">
-            <div class="menu-item"><img src="https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=200&q=80"><br>Classic Chicken Fries<br>₹120</div>
+
             <div class="menu-item"><img src="https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=200&q=80"><br>Cheesy Chicken Fries<br>₹140</div>
             <div class="menu-item"><img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=200&q=80"><br>Spicy Chicken Fries<br>₹130</div>
             <div class="menu-item"><img src="https://images.unsplash.com/photo-1452195100486-9cc805987862?auto=format&fit=crop&w=200&q=80"><br>BBQ Chicken Fries<br>₹150</div>
             <div class="menu-item"><img src="https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=200&q=80"><br>Peri Peri Chicken Fries<br>₹145</div>
-            <div class="menu-item"><img src="https://images.unsplash.com/photo-1429554429301-01bcd64c6eab?auto=format&fit=crop&w=200&q=80"><br>Chicken Nuggets<br>₹100</div>
             <div class="menu-item"><img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=200&q=80"><br>Curly Fries<br>₹90</div>
             <div class="menu-item"><img src="https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=200&q=80"><br>Loaded Fries<br>₹150</div>
             <div class="menu-item"><img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=200&q=80"><br>Chicken Burger<br>₹170</div>
@@ -234,8 +233,7 @@ Publish the website in the given URL.
         <p>We welcome all your feedback and enquiries!</p>
     </div>
     <footer>
-        &copy; Vijay'S Restuarant
-
+        &copy; DESIGNED BY MAHA VISHNU(25018250)
     </footer>
 </body>
 </html>
@@ -246,10 +244,10 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![alt text](<Restaurent/restapp/static/Screenshot (48).png>)
-![alt text](<Restaurent/restapp/static/Screenshot (49).png>)
-![alt text](<Restaurent/restapp/static/Screenshot (50).png>)
-![alt text](<Restaurent/restapp/static/Screenshot (51).png>)
+![alt text](<Restaurent/restapp/static/Screenshot (52).png>)
+![alt text](<Restaurent/restapp/static/Screenshot (53).png>)
+![alt text](<Restaurent/restapp/static/Screenshot (54).png>)
+![alt text](<Restaurent/restapp/static/Screenshot (55).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
